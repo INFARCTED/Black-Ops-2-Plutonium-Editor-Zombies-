@@ -9,7 +9,7 @@ namespace Offset {
 	//Visual
 	uintptr_t cg_usecolorcontrol = 0x2A14DA0;
 	//Overlay
-	uintptr_t Is_InGame = 0xD5CD40; //DDB1C0 DDBAA0
+	uintptr_t Is_InGame = 0xDDC51C;  //01 00 00 00 01 00 00 00 80 BB 00 00 00 80 04 00 00 00 09 00 2C C1 D3 32 00 00 00 00 50 67 15 86 01 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 28 71 D6 00 00 CC E1 00 00 10 00 00 15 05 00 00
 	//position
 	uintptr_t POS_X = 0x23427C8;
 	uintptr_t POS_Y = 0x23427C8 + 0x4;
